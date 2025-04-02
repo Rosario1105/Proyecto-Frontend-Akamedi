@@ -1,0 +1,41 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "MacBook Pro M2",
+        "category": "laptop",
+        "price": 2200,
+        "stock": 5,
+        "description": "Apple MacBook Pro con chip M2, 16GB RAM, 512GB SSD.",
+        "image_url": "https://example.com/macbook.jpg"
+      },
+      {
+        "id": 2,
+        "name": "iPhone 14 Pro",
+        "category": "celular",
+        "price": 1200,
+        "stock": 10,
+        "description": "iPhone 14 Pro con pantalla Super Retina XDR.",
+        "image_url": "https://example.com/iphone14.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Samsung Galaxy S23",
+        "category": "celular",
+        "price": 1100,
+        "stock": 7,
+        "description": "Samsung Galaxy S23 con Snapdragon 8 Gen 2.",
+        "image_url": "https://example.com/galaxy-s23.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Asus ROG Strix",
+        "category": "laptop",
+        "price": 1800,
+        "stock": 4,
+        "description": "Laptop gamer Asus ROG Strix con RTX 4070.",
+        "image_url": "https://example.com/asus-rog.jpg"
+      }
+    ]
+  }
+  
