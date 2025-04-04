@@ -1,13 +1,13 @@
 import React, {Component} from "react";
 import { connect } from "react-redux";
-import { selectProduct } from "../actions";
+import { selectProduct } from "../redux/actions";
 
 
 class ProductList extends Component{
     renderList(){
         return this.props.products.map((product) => {
             return (
-                <div className="item" key={product.image} >
+                <div className="item" key={product.image_URL} >
                     <div className="right floated content" >
                         <button 
                         className="ui button primary"
